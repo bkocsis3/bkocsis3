@@ -3,7 +3,6 @@
 ### Hello, I'm Bruce. I love all things ***Auto-magic***, whether that's through RPA or traditional integration methods. 
 
 ### Tools & Technologies
-|                             |                                |
 |-----------------------------|--------------------------------|
 | Programming & Scripting     | Python, SQL                    |
 | Automation & RPA            | UiPath, Power Automate         |
