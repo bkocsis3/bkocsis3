@@ -1,16 +1,15 @@
-# Bruce Kocsis
-Automation & Integration Developer
+# Bruce Kocsis | Automation & Integration Developer
 
 ## Tools & Technologies
-### Programming & Scripting
+Programming & Scripting
 * Python
 * SQL
-### Automation & RPA
+Automation & RPA
 * UiPath
 * Power Automate
-### API Development & Testing
+API Development & Testing
 * Postman
 * Apigee
-### Integration & Middleware
+Integration & Middleware
 * Boomi
 * Kafka
