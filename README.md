@@ -1,4 +1,6 @@
-# Bruce Kocsis | Lead Analyst - Automation & Integration Ops
+# Bruce Kocsis | Lead Analyst, Automation & Integration Ops
+
+---
 
 ### Hello, I'm Bruce. I love all things ***Auto-Magic***✨. Whether it's through RPA, or traditional integration methods, there are few things more satisfying than making something work on its own.
 
@@ -14,10 +16,10 @@
 
 ---
 
-### 🚀 Featured Projects  
-Check out my pinned repositories for examples of automation and integration.
+### 🚀 Featured Projects
+- Check out my pinned repositories for examples of automation and integration.
 
 ---
 
-### 🌐 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/bruce-kocsis-iii-aa1a359a/)
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/bruce-kocsis-iii-aa1a359a/)
