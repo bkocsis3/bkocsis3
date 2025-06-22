@@ -17,9 +17,9 @@
 ---
 
 ### 🚀 Featured Projects  
-Check out my pinned repositories for examples of automation and integration.
+> Check out my pinned repositories for examples of automation and integration.
 
 ---
 
 ### 🌐 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/bruce-kocsis-iii-aa1a359a/)
+> [LinkedIn](https://www.linkedin.com/in/bruce-kocsis-iii-aa1a359a/)
