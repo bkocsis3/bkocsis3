@@ -8,4 +8,4 @@
 * API Development & Testing: ***Apigee, Postman***
 * Integration & Middleware: ***Boomi, Kafka***
 * DevOps & CI/CD: ***Github Actions, Docker***
-* Observability: **New Relic**
+* Observability: ***New Relic***
