@@ -1,6 +1,6 @@
 # Bruce Kocsis | Lead Analyst - Automation & Integration Ops
 
-### Hello, I'm Bruce. I love all things ***Automagic***, whether that's through RPA or traditional integration methods. 
+### Hello, I'm Bruce. I love all things ***Auto-magic***, whether that's through RPA or traditional integration methods. 
 
 ### Tools & Technologies
 * **Programming & Scripting**: Python, SQL
