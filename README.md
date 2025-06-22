@@ -3,10 +3,9 @@
 ### Hello, I'm Bruce. I love all things ***Auto-magic***, whether that's through RPA or traditional integration methods. 
 
 ### Tools & Technologies
-|-----------------------------|--------------------------------|
-| Programming & Scripting     | Python, SQL                    |
-| Automation & RPA            | UiPath, Power Automate         |
-| API Development & Testing   | Apigee, Postman                |
-| Integration & Middleware    | Boomi, Kafka                   |
-| DevOps & CI/CD              | GitHub Actions, Docker         |
-| Observability               | New Relic                      |
+* **Programing & Scripting**: Python, SQL
+* **Automation & RPA**: UiPath, Power Automate
+* **API Development & Testing**: Apigee, Postman
+* **Integration & Middleware**: Boomi, Kafka
+* **DevOps & CI/CD**: Github Actions, Docker
+* **Observability**: New Relic
