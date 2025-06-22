@@ -1,4 +1,6 @@
-# Bruce Kocsis | Lead Analyst - Automation & Integration Ops
+# Bruce Kocsis
+
+### Lead Analyst - Automation & Integration Ops
 
 ### Hello, I'm Bruce. I love all things ***Auto-Magic***✨. Whether it's through RPA, or traditional integration methods, there are few things more satisfying than making something work on its own.
 
