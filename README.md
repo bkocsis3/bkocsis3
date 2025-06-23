@@ -2,7 +2,7 @@
 
 ---
 
-### Hello, I'm Bruce. I love all things ***Auto-Magic***✨. Whether it's through RPA, or traditional integration methods, there are few things more satisfying than making something work on its own.
+### Hello, I'm Bruce, and I love ***Auto-Magic***✨! Few things as satisfying as getting something to work on its own.
 
 ---
 
