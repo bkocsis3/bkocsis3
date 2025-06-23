@@ -1,4 +1,4 @@
-# Bruce Kocsis | Lead Analyst, Automation & Integration Ops
+# Bruce Kocsis | Lead Analyst of Automation & Integration Ops
 
 ---
 
