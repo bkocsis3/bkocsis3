@@ -2,7 +2,7 @@
 
 ---
 
-### Hello, I'm Bruce, and I love ***Auto-Magic***✨! Few things are as satisfying as getting something to work on its own.
+### Hello! Welcome to my Github. Let's make some ***Auto-Magic***✨!
 
 ---
 
