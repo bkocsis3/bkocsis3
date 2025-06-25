@@ -2,7 +2,7 @@
 
 ---
 
-### Hi, I’m Bruce, a Lead Analyst and aspiring Systems Engineer. I’m endlessly curious about how things work, and even more passionate about making things work on their own. I like to call it ***Auto-Magic***✨! If you like it too, let's make something awesome! 
+### Hi, I’m Bruce, a Lead Analyst and aspiring Systems Engineer. I’m endlessly curious about how things work, and even more passionate about getting those things work on their own. I like to call it ***Auto-Magic***✨! 
 
 ---
 
