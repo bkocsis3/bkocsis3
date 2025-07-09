@@ -6,7 +6,8 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ 
+Tools & Technologies
 * Programming & Scripting: ***Python, SQL, Bash, Powershell***
 * Automation & RPA: ***UiPath, Power Automate***
 * API Development & Testing: ***Apigee, Postman***
