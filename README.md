@@ -6,7 +6,7 @@
 
 ### 🛠️ 
 Toolset
-| Category                    | Technology                            |
+| Category                    | Tool                                  |
 |:---------------------------|:---------------------------------------|
 | Programming & Scripting    | Python, SQL, Bash, PowerShell          |
 | Automation & RPA           | UiPath, Power Automate                 |
