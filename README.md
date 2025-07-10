@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ 
-Tools of the Trade
+Toolset
 | Category                    | Technology                            |
 |:---------------------------|:---------------------------------------|
 | Programming & Scripting    | Python, SQL, Bash, PowerShell          |
