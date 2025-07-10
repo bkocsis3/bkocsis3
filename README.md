@@ -5,9 +5,9 @@
 ---
 
 ### 🛠️ 
-Tools & Technologies
-| Category                    | Tools & Technologies                  |
-|----------------------------|----------------------------------------|
+Tools of the Trade
+| Category                    | Technology                            |
+|:---------------------------|:---------------------------------------|
 | Programming & Scripting    | Python, SQL, Bash, PowerShell          |
 | Automation & RPA           | UiPath, Power Automate                 |
 | API Development & Testing  | Apigee, Postman                        |
