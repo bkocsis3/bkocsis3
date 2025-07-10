@@ -15,7 +15,7 @@ Tools & Technologies
 
 ---
 
-### 📁
+### 📌
 Check out my pinned repositories for examples of automation and integration.
 
 ---
