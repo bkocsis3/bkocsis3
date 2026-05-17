@@ -1,4 +1,4 @@
-# Bruce Kocsis | Automation & Integration Engineer
+# Bruce Kocsis | Sr. Automation & Integration Engineer
 
 ### Hi, I’m Bruce. I’m endlessly curious about how things work, and even more passionate about getting those things to work on their own. I like to call it ***Auto-Magic***✨.
 
