@@ -1,4 +1,4 @@
-# Bruce Kocsis | Lead Analyst - Automation & Integration Ops
+# Bruce Kocsis | Automation & Integration Engineer
 
 ### Hi, I’m Bruce. I’m endlessly curious about how things work, and even more passionate about getting those things to work on their own. I like to call it ***Auto-Magic***✨.
 
@@ -13,7 +13,7 @@ Toolset
 | API Development & Testing  | Apigee, Postman                        |
 | Integration & Middleware   | Boomi, Kafka                           |
 | DevOps & CI/CD             | GitHub Actions, Docker                 |
-| Observability              | New Relic                              |
+| Observability              | New Relic, Grafana                     |
 
 ---
 
