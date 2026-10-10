@@ -18,7 +18,7 @@ Toolset
 ---
 
 ### 📌
-Check out my pinned repositories for examples of automation and integration.
+Check out my pinned repositories for examples of automation, integration, or random passion projects.
 
 ---
 
