@@ -14,13 +14,9 @@ Toolset
 | Integration & Middleware   | Boomi, Kafka                           |
 | DevOps & CI/CD             | GitHub Actions, Docker                 |
 | Observability              | New Relic, Grafana                     |
+| AI                         | OpenAI, LangChain                      |
 
 ---
 
 ### 📌
-Check out my pinned repositories for examples of automation, integration, and other projects.
-
----
-
-### 🌐 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/bruce-kocsis-iii-aa1a359a/).
+Check out my pinned repositories for examples of automation, integration, and AI.
