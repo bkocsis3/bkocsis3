@@ -1,4 +1,4 @@
-# Bruce Kocsis | Lead Analyst - Automation & Integration Ops
+# Bruce Kocsis | Sr Engineer - Automation & Integration Ops
 
 ### Hi, I’m Bruce. I’m endlessly curious about how things work, and even more passionate about getting those things to work on their own.
 
